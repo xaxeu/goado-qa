@@ -1,0 +1,68 @@
+- image_thumb: peticao.jpg
+  image_large: peticao.jpg
+  url: http://peticaopublica.com/pview.aspx?pi=PT102158
+  image_alt: Isenção de junta médica para doentes oncológicos
+  link: Clique no link
+
+- image_thumb: dgs.png
+  image_large: dgs.png
+  url: https://www.dgs.pt/ficheiros-de-upload-1/beneficios-doencas-cronicas-htm.aspx
+  image_alt: Doenças crónicas - Benefícios Atribuídos em Regime Especial
+  phone: 808 242 424
+  link: Clique no link
+
+- image_thumb: sns.png
+  image_large: sns.png
+  url: https://www.dgs.pt/paginas-de-sistema/saude-de-a-a-z/programa-nacional-para-as-doencas-oncologicas/perguntas-e-respostas.aspx
+  image_alt: Doenças oncológicas - Perguntas Frequentes
+  phone: 808 242 424
+  link: Clique no link
+
+- image_thumb: ipo_porto.jpg
+  image_large: ipo_porto.jpg
+  url: http://www.ipoporto.pt/eu-doente/quiosques-eletronicos-bem-me-quer/
+  image_alt: Portal BEM-ME-KER - IPO Porto
+  phone: 225 084 000
+  link: Clique no link
+
+- image_thumb: ulsam_logo.jpg
+  image_large: ulsam_logo.jpg
+  url: http://www.ulsam.min-saude.pt/cidadao/acesso-a-informacao-clinica/
+  image_alt: Pedidos de relatórios médicos à ULSAM – Viana do Castelo 
+  phone: 258 802 100
+  link: Clique no link
+
+- image_thumb: seg_social_2.jpg
+  image_large: seg_social_2.jpg
+  url: http://www.seg-social.pt/documents/10152/15387260/PSI_1_DGSS/baa67447-a820-4a15-a494-3fc2c77d1e76
+  image_alt: Pedido de prestação social para inclusão
+  phone: 300 502 502
+  link: Clique no link
+
+- image_thumb: logo-at.png
+  image_large: logo-at.png
+  url: https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/questoes_frequentes/Pages/faqs-00304.aspx
+  image_alt: Averbamento nas finanças do atestado médico de incapacidades multiuso
+  phone: 217 206 707
+  link: Clique no link
+
+- image_thumb: portal_habit.jpg
+  image_large: portal_habit.jpg
+  url: https://www.portaldahabitacao.pt/web/guest/arrendamento-apoiado
+  image_alt: Pedidos de arrendamento apoiado
+  phone: 217 231 500
+  link: Clique no link
+
+- image_thumb: onco.jpg
+  image_large: onco.jpg
+  url: https://www.sns.gov.pt/noticias/2020/04/03/covid-19-doentes-oncologicos/
+  image_alt: Covid-19 | Doentes oncológicos
+  phone: 808 242 424
+  link: Clique no link
+
+- image_thumb: emergencia_alimentar.jpg
+  image_large: emergencia_alimentar.jpg
+  url: https://emergencia.bancoalimentar.pt/
+  image_alt: Rede de emergência alimentar
+  phone: 
+  link: Clique no link

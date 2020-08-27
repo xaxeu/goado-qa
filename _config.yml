@@ -1,0 +1,67 @@
+# Site settings
+title: GOADO | Saúde Financeira
+description: "Gabinete online de apoio ao doente oncológico"
+baseurl: "/teste" # the subpath of your site, e.g. /blog
+url: "//xaxeu.github.io" # the name of your domain
+logo_url: svg/min/logo.svg
+
+ # Hero
+hero: 
+    hero_img: hero3.jpg
+    hero_title: GOADO
+    hero_description: Gabinete online de apoio ao doente oncológico
+
+# Contact form
+api_token: # Enter API token here
+
+# Contact info
+contact:
+    phone: +351 963 090 489
+    emergency: 931 53 234
+    email: maria.vaificartudobem@gmail.com
+    address: Viana do Castelo, Portugal
+
+# Opening hours
+monday_friday: 14:00 – 17:00
+saturday: encerrado
+sunday: encerrado
+
+# Testimonials
+testimonials:
+    testimonials_img: testimonials.jpg
+
+# Map
+map:
+    zoom: 17
+    address: Viana do Castelo, Portugal
+    address_details: svg/min/logo.svg
+
+# Social settings
+#facebook: http://facebook.com
+#twitter: http://twitter.com
+#instagram: http://instagram.com
+#youtube: http://youtube.com
+#skype: skype:obaez_design?userinfo
+#feed: yes
+
+# Footer
+copyright: © 2020 GOADO 
+
+# Build settings
+markdown: kramdown
+
+exclude: [
+    package.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore
+]
+
+# Theme Settings
+analytics: 
+google_verification:
+
+encoding: UTF-8

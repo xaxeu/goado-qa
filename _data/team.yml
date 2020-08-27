@@ -1,0 +1,53 @@
+- name: Doenças crónicas - Benefícios Atribuídos em Regime Especial
+  image: dgs.png
+  url: https://www.dgs.pt/ficheiros-de-upload-1/beneficios-doencas-cronicas-htm.aspx
+  phone: 808 242 424
+  link: Clique no link
+
+- name: Doenças oncológicas - Perguntas Frequentes
+  image: sns.png
+  url: https://www.dgs.pt/paginas-de-sistema/saude-de-a-a-z/programa-nacional-para-as-doencas-oncologicas/perguntas-e-respostas.aspx
+  phone: 808 242 424
+  link: Clique no link
+
+- name: Portal BEM-ME-KER - IPO Porto
+  image: ipo_porto.jpg
+  url: http://www.ipoporto.pt/eu-doente/quiosques-eletronicos-bem-me-quer/
+  phone: 225 084 000
+  link: Clique no link
+
+- name: Pedidos de relatórios médicos à ULSAM – Viana do Castelo 
+  image: ulsam_logo.jpg
+  url: http://www.ulsam.min-saude.pt/cidadao/acesso-a-informacao-clinica/
+  phone: 258 802 100
+  link: Clique no link
+
+- name: Pedido de prestação social para inclusão
+  image: seg_social_2.jpg
+  url: http://www.seg-social.pt/documents/10152/15387260/PSI_1_DGSS/baa67447-a820-4a15-a494-3fc2c77d1e76
+  phone: 300 502 502
+  link: Clique no link
+
+- name: Averbamento nas finanças do atestado médico de incapacidades multiuso
+  image: logo-at.png
+  url: https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/questoes_frequentes/Pages/faqs-00304.aspx
+  phone: 217 206 707
+  link: Clique no link
+
+- name: Pedidos de arrendamento apoiado
+  image: portal_habit.jpg
+  url: https://www.portaldahabitacao.pt/web/guest/arrendamento-apoiado
+  phone: 217 231 500
+  link: Clique no link
+
+- name: Covid-19 | Doentes oncológicos
+  image: onco.jpg
+  url: https://www.sns.gov.pt/noticias/2020/04/03/covid-19-doentes-oncologicos/
+  phone: 808 242 424
+  link: Clique no link
+
+- name: Rede de emergência alimentar
+  image: emergencia_alimentar.jpg
+  url: https://emergencia.bancoalimentar.pt/
+  phone: 
+  link: Clique no link

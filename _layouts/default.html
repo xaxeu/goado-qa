@@ -1,0 +1,21 @@
+{% include doctype-head.html %}
+<body data-spy="scroll" data-offset="80" data-target=".scrollspy" id="top">
+    {% include svg-defs.svg %}
+
+    {% include header.html %}
+ 
+        {{ content }}
+           
+    {% include footer.html %}
+    
+    {% if site.analytics %}
+        {% include analytics.html %}
+    {% endif %}
+
+   <!-- <script src="https://cmp.osano.com/AzZcnHS5bmPoG2ELG/e1f43fe6-f57b-4e2a-bb63-d6e9201ed178/osano.js"></script>-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script src="{{ site.baseurl }}/js/all.min.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,29 @@
+- icon: icon-user-md
+  title: Pedido de atestado médico
+  description: 'Junta médica para emissão de atestado médico de incapacidades multiuso'
+
+- icon: icon-diamond
+  title: Mediação de seguros
+  description: 'Ativação de seguros de vida
+    - Medidas de estímulo ao emprego
+    - Proteção especial na invalidez PSI (Prestação social para a inclusão)'
+
+- icon: icon-briefcase
+  title: Isenção de impostos
+  description: 'Isenção no imposto sobre veículos e imposto único de circulação'
+
+- icon: icon-user
+  title: Créditos
+  description: 'Benefícios no Crédito de Habitação
+    - Benefícios ao nível do arrendamento
+    - Benefícios nas contas poupança-reforma'
+
+- icon: icon-ambulance
+  title: Chamadas de emergência
+  description: 'Transporte de doentes'
+
+- icon: icon-bed
+  title: Hospitalização
+  description: 'Isenção das taxas moderadoras
+    - Comparticipação na medicação oncológica não fornecida pelo hospital
+    - Comparticipação das despesas com próteses ou outros produtos de apoio'
