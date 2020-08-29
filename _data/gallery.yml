@@ -1,13 +1,7 @@
-- image_thumb: peticao.jpg
-  image_large: peticao.jpg
-  url: http://peticaopublica.com/pview.aspx?pi=PT102158
-  image_alt: Isenção de junta médica para doentes oncológicos
-  link: Clique no link
-
 - image_thumb: dgs.png
   image_large: dgs.png
   url: https://www.dgs.pt/ficheiros-de-upload-1/beneficios-doencas-cronicas-htm.aspx
-  image_alt: Doenças crónicas - Benefícios Atribuídos em Regime Especial
+  image_alt: Doenças crónicas - Benefícios Atribuídos
   phone: 808 242 424
   link: Clique no link
 
@@ -28,7 +22,7 @@
 - image_thumb: ulsam_logo.jpg
   image_large: ulsam_logo.jpg
   url: http://www.ulsam.min-saude.pt/cidadao/acesso-a-informacao-clinica/
-  image_alt: Pedidos de relatórios médicos à ULSAM – Viana do Castelo 
+  image_alt: Pedidos de relatórios médicos à ULSAM
   phone: 258 802 100
   link: Clique no link
 
@@ -42,7 +36,7 @@
 - image_thumb: logo-at.png
   image_large: logo-at.png
   url: https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/questoes_frequentes/Pages/faqs-00304.aspx
-  image_alt: Averbamento nas finanças do atestado médico de incapacidades multiuso
+  image_alt: Averbamento nas finanças do atestado médico 
   phone: 217 206 707
   link: Clique no link
 
