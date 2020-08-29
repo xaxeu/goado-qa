@@ -1,3 +1,9 @@
+- name: App Stayaway COVID
+  image: swc.PNG
+  url: https://stayawaycovid.pt/
+  phone: 
+  link: Clique no link
+  
 - image_thumb: dgs.png
   image_large: dgs.png
   url: https://www.dgs.pt/ficheiros-de-upload-1/beneficios-doencas-cronicas-htm.aspx
