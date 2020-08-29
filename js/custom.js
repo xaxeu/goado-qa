@@ -40,7 +40,7 @@
     $("#testimonial-carousel").owlCarousel({
  
         autoPlay: 6000, //Set AutoPlay to 6 seconds
- 
+        stopOnHover: true,
         singleItem: true,
         pagination : false
  

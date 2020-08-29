@@ -93,6 +93,7 @@ module.exports = function (grunt) {
                 tasks: ['svgmin', 'svgstore', 'shell:jekyllBuild']
             },
             options: {
+                implementation: 'sass',
                 spawn : false,
                 livereload: true
             }
