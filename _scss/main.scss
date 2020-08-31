@@ -5,6 +5,8 @@
 
 @import "base/global";
 @import "base/typography";
+@import "base/blog_variables";
+@import "base/blog_utility";
 
 @import "layout/layout";
 @import "layout/nav";
@@ -26,6 +28,7 @@
 @import "components/team";
 @import "components/social";
 @import "components/ie";
+@import "components/posts";
 
 @import "vendor/owl-carousel";
 @import "vendor/magnific-popup";

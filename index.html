@@ -224,9 +224,10 @@ layout: default
                 {% for images in site.data.gallery %}
                 {% assign image_id = image.image_thumb %}
                 <div class="gallery-item portfolio-item">                
-                    <a href="#" data-href="/img/gallery/thumb/{{ images.image_thumb }}" class="openPopup"></a>
+                    <!-- openPopup.onClick tem evento tratado no JS-->
+                      <!--<a href="#" data-href="/img/gallery/thumb/{{ images.image_thumb }}" class="openPopup"></a>-->
                     
-<a class="portfolio-link openPopup" data-toggle="modal" href="#" data-href="{{ site.baseurl }}/img/gallery/thumb/{{ images.image_thumb }}">
+<a class="portfolio-link openPopup" data-toggle="modal" href="#" data-href="{{ site.baseurl }}/2013/10/18/blogging-with-title.html">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
@@ -251,7 +252,7 @@ layout: default
                         <div class="row">
                             <div class="col-lg-8 mx-auto">
                                 <div class="modal1-body">
-                                                                  
+                                    <!--REsultado do JS é colocado aqui-->                              
                                 </div>
                                 <div class="modal1-footer">
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">

@@ -13,6 +13,7 @@ hero:
 
 # Contact form
 api_token: # Enter API token here
+disqus_shortname: goado-qa                                       # Your discus shortname for comments
 
 # Contact info
 contact:
