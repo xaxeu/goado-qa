@@ -46,6 +46,17 @@
  
     });
 
+        /* Gallery modal - Links uteis 2
+    ----------------------------------------------*/
+    $(document).ready(function(){
+        $('.openPopup').on('click',function(){
+            var dataURL = $(this).attr('data-href');
+            $('.modal1-body').load(dataURL,function(){
+                $('#portfolioModal1').modal({show:true});
+            });
+        }); 
+    });    
+
     /* Tooltip
     ----------------------------------------------*/
     $('[data-toggle="tooltip"]').tooltip();
